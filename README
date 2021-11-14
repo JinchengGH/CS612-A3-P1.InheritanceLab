@@ -1,0 +1,22 @@
+## 代码运行环境
+
+Compiler: JDK 1.8
+
+IDE: Eclipse 2021
+
+## 代码运行方法
+
+运行Hospital.java类。
+
+## 目录结构
+
+HospitalEmployee.java：公共父类。
+
+Doctor.java：继承自HospitalEmployee.java。
+
+Nurse.java：继承自HospitalEmployee.java。
+
+Surgeon.java：继承自Doctor.java。
+
+Hospital.java：主程序。
+
